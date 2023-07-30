@@ -1,0 +1,15 @@
+.MuiTypography-colorInherit  {
+    color: white;
+}
+.MuiTablePagination-root {
+    color: white;
+    overflow: auto;
+    font-size: 0.875rem;
+}
+p {
+    color: white;
+}
+
+.column-header .sort-arrow {
+    display: none;
+  }
